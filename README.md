@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... JavaScript and React JS
 - 📫 How to reach me ajayrajput82610@gmail.com
 - 📫 Languages Known ...................................................   HTML5/CSS
-![image](https://github.com/ajay-86270/ajay-86270/assets/173144953/bf8c7598-b81b-4bc7-8982-8cf07194fff0)
+
 
  
+![184476472-103ebb36-c428-425a-b7f6-79f920ab54ff](https://github.com/ajay-86270/ajay-86270/assets/173144953/65ae4635-6aa4-4bbd-8288-99e62db46378)
