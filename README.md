@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajay-86270
+- 👋 Hi, I’m Ajay Kumar
 - 👀 I’m interested in Front End Developer.
 - 🌱 I’m currently learning JavaScript and React JS
 - 💞️ I’m looking to collaborate on ... JavaScript and React JS
